@@ -1,0 +1,6 @@
+com.androidpaginationexample.test.app-core-1.5.0-0 /Users/himu/.gradle/caches/transforms-3/0b040387e7699cdaf9d7e51a11238d5a/transformed/core-1.5.0/res
+com.androidpaginationexample.test.app-annotation-experimental-1.3.1-1 /Users/himu/.gradle/caches/transforms-3/1c9fa06f5ba2c44c70272804195a16a2/transformed/annotation-experimental-1.3.1/res
+com.androidpaginationexample.test.app-androidTest-2 /Users/himu/Downloads/Android/Android_Task/app/build/generated/res/resValues/androidTest/debug
+com.androidpaginationexample.test.app-mergeDebugAndroidTestResources-3 /Users/himu/Downloads/Android/Android_Task/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.androidpaginationexample.test.app-mergeDebugAndroidTestResources-4 /Users/himu/Downloads/Android/Android_Task/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.androidpaginationexample.test.app-debugAndroidTest-5 /Users/himu/Downloads/Android/Android_Task/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.androidpaginationexample.app-mergeDebugResources-46:/layout/activity_detail.xml",
+        "source": "com.androidpaginationexample.app-main-49:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-mergeDebugResources-46:/layout/each_row.xml",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/layout/each_row.xml"
+    }
+]

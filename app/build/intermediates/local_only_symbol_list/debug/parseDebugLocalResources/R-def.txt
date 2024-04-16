@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_arrow_back_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnBack
+id progress_bar
+id recyclerview
+id txtBody
+id txtId
+id txtTitle
+layout activity_detail
+layout activity_main
+layout each_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.RoomDatabaseWithPaging3

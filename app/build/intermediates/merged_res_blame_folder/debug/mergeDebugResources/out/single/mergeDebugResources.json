@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/layout_each_row.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/layout/each_row.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.androidpaginationexample.app-debug-47:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.androidpaginationexample.app-main-49:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.androidpaginationexample.app-debug-47:/layout_activity_detail.xml.flat",
+        "source": "com.androidpaginationexample.app-main-49:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-debug-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/himu/.gradle/daemon/8.4/com.androidpaginationexample.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

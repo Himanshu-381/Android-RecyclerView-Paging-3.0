@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.androidpaginationexample.app-mergeDebugResources-45:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/himu/.gradle/caches/transforms-3/93f761477217ad8618d334244cf57473/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
